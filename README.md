@@ -2,4 +2,4 @@
 
 **- Language:** NodeJS
 
-**- Database:** CloudantDB
+**- Database:** MongoDB
